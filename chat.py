@@ -4,7 +4,7 @@ from tkinter import scrolledtext
 from groq import Groq
 
 # Fetch the API key from environment variables
-api_key = "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"  # Set the API key directly
+api_key = "<GROQ-API>"  # Replace <GROQ-API> with the actual api
 
 # Initialize Groq client
 client = Groq(api_key=api_key)
