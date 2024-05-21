@@ -1,5 +1,5 @@
-#Chat Interface for Groq
-##Execution:
+# Chat Interface for Groq
+## Execution:
 ```bash
 cd groq-chatapp-main
 python3 chat.py
